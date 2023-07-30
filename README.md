@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nel</h1>
+<h1 align="center">Hi 👋, I'm Taner</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 📫 How to reach me **landrashoen@gmail.com**
