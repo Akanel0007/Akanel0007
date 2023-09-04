@@ -66,7 +66,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.itemsatis.com/p/CloudStore" target="_blank">
-<img src=https://i.hizliresim.com/mv3cwet.jpg=for-the-badge&logo=itemsatis&logoColor=white alt=itemsatis style="margin-bottom: 10px;" />
+<img src=https://i.hizliresim.com/mv3cwet=for-the-badge&logo=itemsatis&logoColor=white alt=itemsatis style="margin-bottom: 10px;" />
 
 </a>
 </div>  
