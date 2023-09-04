@@ -66,7 +66,7 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.itemsatis.com/p/CloudStore" target="_blank">
-<img src="https://github.com/Akanel0007/Akanel0007/assets/128928886/e443d73e-5cf9-489f-8db4-8d3db703d9b5=for-the-badge&logo=instagram&logoColor=white alt=itemsatis style="margin-bottom: 5px;" />
+<img src=https://cdn.discordapp.com/attachments/1048254949840142397/1148252353032626260/beyaz-logo-dark-mode_2.png=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
 </a>
 </div>  
