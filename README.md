@@ -65,6 +65,10 @@
 <a href="https://www.instagram.com/taner.yumukk/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.itemsatis.com/p/CloudStore" target="_blank">
+<img src=![image](https://github.com/Akanel0007/Akanel0007/assets/128928886/1a35809e-7297-491b-9214-06df6e1dcbbd)
+=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
 </div>  
   
  
